@@ -22,6 +22,8 @@ This is a curated list of training resources for IBM Cloud and related technolog
 == IBM Cloud Garage Method
 . Explore the Garage Method (on-line, self-paced, 1.5 hours):  https://www.ibm.com/cloud/garage/content/course/explore_garage_method/
 
+. Become a Garage Method advocate (on-line, self-paced, 3 hours): https://www.ibm.com/cloud/garage/content/course/gm_advocate/0
+
 . Neal Ford on Agile Engineering Practices (on-line, self-paced, 7 hours):  https://www.safaribooksonline.com/library/view/neal-ford-on/9781449314439/  (sign-up for a free 10-day trial account here: https://www.safaribooksonline.com/register/)
 
 . Chapter 1 in, Refactoring: Improving the Design of Existing Code (on-line, self-paced, 4 hours): https://www.safaribooksonline.com/library/view/refactoring-improving-the/0201485672/ch01.html (sign-up for a free 10-day trial account here: https://www.safaribooksonline.com/register/)
@@ -38,4 +40,6 @@ This is a curated list of training resources for IBM Cloud and related technolog
 
 . Spotify Engineering Culture (on-line, self-paced, 26 min): https://www.youtube.com/watch?v=R2o-Xm3UVjs
 
-.  Bluemix Garage Method website:  https://www.ibm.com/devops/method/
+.  IBM Cloud Garage Method website:  https://www.ibm.com/devops/method/
+
+. IBM Cloud Garage Method - Field Guide: https://www.ibm.com/cloud/garage/files/Garage-Method-Field-Guide-Mar-2017.pdf
