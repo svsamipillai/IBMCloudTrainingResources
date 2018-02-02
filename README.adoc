@@ -1,0 +1,41 @@
+= IBM Cloud Training Resources
+
+This is a curated list of training resources for IBM Cloud and related technologies. This document will be updated often.
+
+
+== IBM Cloud - PaaS / Cloud Foundry
+. IBM Cloud essentials (on-line, self-paced, 4 hours): https://developer.ibm.com/courses/all/bluemix-essentials/
+
+. Cloud application developer certification preparation (on-line, self-paced, 21 hours): https://developer.ibm.com/courses/all/cloud-application-developer-certification-preparation-v2/
+
+
+== Cloud-Native and Microservices
+. 12-Factor Apps in Plain English (on-line, self-paced, 1 hours): http://www.clearlytech.com/2014/01/04/12-factor-apps-plain-english/
+. 12-Factor website: http://12factor.net/
+. Top 9 rules for cloud applications (on-line, self-paced, 1 hours): https://www.ibm.com/developerworks/websphere/techjournal/1404_brown/1404_brown.html
+. Microservices - a definition of this new architectural term (on-line, self-paced, 2 hours): https://martinfowler.com/articles/microservices.html
+. Microservices from Theory to Practice: Creating Applications in IBM Bluemix Using the Microservices Approach (book): https://www.redbooks.ibm.com/redbooks.nsf/RedbookAbstracts/sg248275.html
+.  Microservices with Spring Cloud - A deep-dive into the Microservice architectural style, and how to implement it with Spring technologies (on-line, self-paced, 4.5 hours): https://www.udemy.com/microservices-with-spring-cloud/ (this is a paid course)
+
+
+
+== IBM Cloud Garage Method
+. Explore the Garage Method (on-line, self-paced, 1.5 hours):  https://www.ibm.com/cloud/garage/content/course/explore_garage_method/
+
+. Neal Ford on Agile Engineering Practices (on-line, self-paced, 7 hours):  https://www.safaribooksonline.com/library/view/neal-ford-on/9781449314439/  (sign-up for a free 10-day trial account here: https://www.safaribooksonline.com/register/)
+
+. Chapter 1 in, Refactoring: Improving the Design of Existing Code (on-line, self-paced, 4 hours): https://www.safaribooksonline.com/library/view/refactoring-improving-the/0201485672/ch01.html (sign-up for a free 10-day trial account here: https://www.safaribooksonline.com/register/)
+
+. Practical Refactoring (on-line, self-paced, 2 hours): https://www.youtube.com/watch?v=aWiwDdx_rdo
+
+. Continuous Integration on a Dollar a Day (on-line, self-paced, 30 min):  http://www.jamesshore.com/Blog/Continuous-Integration-on-a-Dollar-a-Day.html
+
+. Play by Play: TDD with Brad Wilson (on-line, self-paced, 65 min): https://app.pluralsight.com/library/courses/play-by-play-wilson-tdd (sign-up for a free trial account)
+
+. TDD as a Design Tool (on-line, self-paced, 118 min): https://app.pluralsight.com/library/courses/tdd-as-design-tool (sign-up for a free trial account)
+
+. Agile Product Ownership in a Nutshell (on-line, self-paced, 16 min):  https://www.youtube.com/watch?v=502ILHjX9EE
+
+. Spotify Engineering Culture (on-line, self-paced, 26 min): https://www.youtube.com/watch?v=R2o-Xm3UVjs
+
+.  Bluemix Garage Method website:  https://www.ibm.com/devops/method/
